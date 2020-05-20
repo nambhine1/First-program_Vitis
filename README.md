@@ -4,7 +4,7 @@ In this tutorial we will see how we can build an application program using vitis
 
 Before we get started lets clone the sample code from github  using the following link below :
 
-https://github.com/Xilinx/Vitis-Tutorials/tree/master/docs/using-multiple-cu
+git clone https://github.com/Xilinx/Vitis-Tutorials/tree/master/docs/using-multiple-cu
 
 In this tutorial we used the makefile to build and run the application program the makefile is located inside of reference-file
 
