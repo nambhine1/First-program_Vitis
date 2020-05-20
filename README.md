@@ -15,6 +15,7 @@ open the terminal and type
 Before we can build the application program we have to set up the environment of vitis and xrt using the following command :
 
 > source /home/namby/Vitis_xilinx/Vitis/2019.2/settings64.sh 
+
 >  source /opt/xilinx/xrt/setup.sh
 
 
